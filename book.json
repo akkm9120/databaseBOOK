@@ -1,0 +1,13 @@
+[
+    {
+        "ISBN" : 973 ,
+        "Title": "Bat Man",
+        "Page count": 1207,
+        "author": "A_001",
+        "publisher": "P_001",
+        "loan": "L_001",
+
+        "review": ["R_001","R_002"]
+
+    }
+]
